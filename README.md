@@ -20,6 +20,14 @@ These implementation-ready blueprints use synthetic data and contain no propriet
 10. [Exam Workflow Orchestrator](https://github.com/MadalaVarun/varun-engineering-portfolio/blob/main/projects/10-exam-workflow-orchestrator.md)
 11. [Distributed Cache Benchmark](https://github.com/MadalaVarun/varun-engineering-portfolio/blob/main/projects/11-redis-cache-benchmark.md)
 12. [Healthcare Operations AI Assistant](https://github.com/MadalaVarun/varun-engineering-portfolio/blob/main/projects/12-healthcare-ai-assistant.md)
+13. [gRPC Policy Administration Service](https://github.com/MadalaVarun/varun-engineering-portfolio/blob/main/projects/13-grpc-policy-service.md)
+14. [Claims Data Migration Toolkit](https://github.com/MadalaVarun/varun-engineering-portfolio/blob/main/projects/14-claims-data-migration.md)
+15. [Resilient Partner API Gateway](https://github.com/MadalaVarun/varun-engineering-portfolio/blob/main/projects/15-partner-api-gateway.md)
+16. [Hybrid SQL/NoSQL Query Platform](https://github.com/MadalaVarun/varun-engineering-portfolio/blob/main/projects/16-hybrid-data-platform.md)
+17. [RabbitMQ Notification Platform](https://github.com/MadalaVarun/varun-engineering-portfolio/blob/main/projects/17-notification-platform.md)
+18. [GitHub Actions Delivery Platform](https://github.com/MadalaVarun/varun-engineering-portfolio/blob/main/projects/18-github-actions-cicd.md)
+19. [Cloud Cost & Capacity Analyzer](https://github.com/MadalaVarun/varun-engineering-portfolio/blob/main/projects/19-cloud-cost-analyzer.md)
+20. [Microservice Chaos Engineering Lab](https://github.com/MadalaVarun/varun-engineering-portfolio/blob/main/projects/20-chaos-engineering-lab.md)
 
 ## Technical strengths
 
