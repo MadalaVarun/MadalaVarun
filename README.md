@@ -4,7 +4,7 @@
 
 # Varun Madala
 
-### Software Development Engineer building resilient APIs, event-driven platforms, and cloud-native systems
+### Software Engineer building resilient APIs, event-driven platforms, and cloud-native systems
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Varun_Madala-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/varun-madala)
 [![Portfolio](https://img.shields.io/badge/Portfolio-20_Runnable_Projects-0969DA?style=for-the-badge&logo=github)](https://github.com/MadalaVarun/varun-engineering-portfolio)
@@ -14,7 +14,7 @@
 
 ## Engineering profile
 
-I am a backend-focused Software Development Engineer with 5+ years of experience across healthcare, education, and retail systems. I work at the intersection of **API design, distributed workflows, cloud infrastructure, data platforms, security, and reliability engineering**.
+I am a backend-focused Software Engineer with 5+ years of experience across healthcare, education, and retail systems. I work at the intersection of **API design, distributed workflows, cloud infrastructure, data platforms, security, and reliability engineering**.
 
 ```text
 DESIGN      REST · GraphQL · gRPC · Microservices · Event-Driven Systems
@@ -118,6 +118,6 @@ flowchart LR
 
 ### Build systems that stay understandable when scale and failure arrive.
 
-**Varun Madala** · Software Development Engineer · Atlanta, Georgia
+**Varun Madala** · Software Engineer · Atlanta, Georgia
 
 </div>
