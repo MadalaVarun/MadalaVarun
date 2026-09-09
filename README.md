@@ -29,9 +29,14 @@ These implementation-ready blueprints use synthetic data and contain no propriet
 19. [Cloud Cost & Capacity Analyzer](https://github.com/MadalaVarun/varun-engineering-portfolio/blob/main/projects/19-cloud-cost-analyzer.md)
 20. [Microservice Chaos Engineering Lab](https://github.com/MadalaVarun/varun-engineering-portfolio/blob/main/projects/20-chaos-engineering-lab.md)
 
-## Technical strengths
+## Core Technical Skills
 
-`C#` `ASP.NET Core` `.NET Framework` `Python` `FastAPI` `REST` `GraphQL` `gRPC` `Kafka` `RabbitMQ` `PostgreSQL` `SQL Server` `Oracle` `MongoDB` `Redis` `Docker` `Kubernetes` `Terraform` `GitHub Actions` `Jenkins` `Prometheus` `Grafana`
+| Category | Technologies |
+|---|---|
+| **Languages & Backend** | C#, Python, JavaScript, TypeScript, .NET Core, ASP.NET MVC 5.0, ASP.NET Web Forms, FastAPI, Flask, Object-Oriented Design, Microservices, Event-Driven Systems |
+| **APIs & Data** | REST, GraphQL, gRPC, SQL Server, PostgreSQL, Oracle, Cosmos DB, MongoDB, Redis, Kafka, RabbitMQ |
+| **Cloud & DevOps** | AWS, Azure, Docker, Kubernetes, Terraform, CloudFormation, Visual Studio, GitHub Actions, Jenkins, Grafana, Prometheus, Splunk |
+| **Healthcare Domain** | Claims, Eligibility, Policy, Secure PHI Workflows, Role-Based Access Control |
 
 ## What I care about
 
