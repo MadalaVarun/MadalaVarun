@@ -6,28 +6,28 @@ I build reliable backend platforms, distributed APIs, and event-driven systems. 
 
 ## Portfolio projects
 
-The first five entries are complete, runnable repositories with tests, containers, and CI. The remaining entries are implementation-ready blueprints. All healthcare examples use synthetic data and contain no proprietary code or protected health information.
+All 20 entries are complete, runnable portfolio MVP repositories with distinct implementations, automated tests, Docker support, GitHub Actions CI, documentation, and an MIT license. All healthcare examples use synthetic data and contain no proprietary code or protected health information.
 
 1. ✅ [Healthcare Claims API - complete](https://github.com/MadalaVarun/healthcare-claims-api)
 2. ✅ [Member Eligibility Event Pipeline - complete](https://github.com/MadalaVarun/member-eligibility-pipeline)
 3. ✅ [POS Inventory Service - complete](https://github.com/MadalaVarun/pos-inventory-service)
 4. ✅ [Academic Assessment Engine - complete](https://github.com/MadalaVarun/academic-assessment-engine)
 5. ✅ [Distributed Cache Benchmark - complete](https://github.com/MadalaVarun/distributed-cache-benchmark)
-6. [Multi-Tenant GraphQL Member Gateway](https://github.com/MadalaVarun/varun-engineering-portfolio/blob/main/projects/03-graphql-member-gateway.md)
-7. [PHI Access Control & Audit Service](https://github.com/MadalaVarun/varun-engineering-portfolio/blob/main/projects/04-phi-access-audit.md)
-8. [Claims Platform Observability Lab](https://github.com/MadalaVarun/varun-engineering-portfolio/blob/main/projects/05-observability-lab.md)
-9. [Kubernetes Auto-Scaling Claims Worker](https://github.com/MadalaVarun/varun-engineering-portfolio/blob/main/projects/06-kubernetes-claims-worker.md)
-10. [Azure Microservices Infrastructure](https://github.com/MadalaVarun/varun-engineering-portfolio/blob/main/projects/07-azure-terraform-platform.md)
-11. [Exam Workflow Orchestrator](https://github.com/MadalaVarun/varun-engineering-portfolio/blob/main/projects/10-exam-workflow-orchestrator.md)
-12. [Healthcare Operations AI Assistant](https://github.com/MadalaVarun/varun-engineering-portfolio/blob/main/projects/12-healthcare-ai-assistant.md)
-13. [gRPC Policy Administration Service](https://github.com/MadalaVarun/varun-engineering-portfolio/blob/main/projects/13-grpc-policy-service.md)
-14. [Claims Data Migration Toolkit](https://github.com/MadalaVarun/varun-engineering-portfolio/blob/main/projects/14-claims-data-migration.md)
-15. [Resilient Partner API Gateway](https://github.com/MadalaVarun/varun-engineering-portfolio/blob/main/projects/15-partner-api-gateway.md)
-16. [Hybrid SQL/NoSQL Query Platform](https://github.com/MadalaVarun/varun-engineering-portfolio/blob/main/projects/16-hybrid-data-platform.md)
-17. [RabbitMQ Notification Platform](https://github.com/MadalaVarun/varun-engineering-portfolio/blob/main/projects/17-notification-platform.md)
-18. [GitHub Actions Delivery Platform](https://github.com/MadalaVarun/varun-engineering-portfolio/blob/main/projects/18-github-actions-cicd.md)
-19. [Cloud Cost & Capacity Analyzer](https://github.com/MadalaVarun/varun-engineering-portfolio/blob/main/projects/19-cloud-cost-analyzer.md)
-20. [Microservice Chaos Engineering Lab](https://github.com/MadalaVarun/varun-engineering-portfolio/blob/main/projects/20-chaos-engineering-lab.md)
+6. ✅ [Multi-Tenant GraphQL Member Gateway - complete](https://github.com/MadalaVarun/graphql-member-gateway)
+7. ✅ [PHI Access Control & Audit Service - complete](https://github.com/MadalaVarun/phi-access-audit-service)
+8. ✅ [Claims Platform Observability Lab - complete](https://github.com/MadalaVarun/claims-observability-lab)
+9. ✅ [Kubernetes Claims Worker - complete](https://github.com/MadalaVarun/kubernetes-claims-worker)
+10. ✅ [Azure Terraform Platform - complete](https://github.com/MadalaVarun/azure-terraform-platform)
+11. ✅ [Exam Workflow Orchestrator - complete](https://github.com/MadalaVarun/exam-workflow-orchestrator)
+12. ✅ [Healthcare Operations AI Assistant - complete](https://github.com/MadalaVarun/healthcare-ai-assistant)
+13. ✅ [Policy Administration Service - complete](https://github.com/MadalaVarun/grpc-policy-service)
+14. ✅ [Claims Data Migration Toolkit - complete](https://github.com/MadalaVarun/claims-data-migration-toolkit)
+15. ✅ [Resilient Partner API Gateway - complete](https://github.com/MadalaVarun/partner-api-gateway)
+16. ✅ [Hybrid SQL/NoSQL Data Platform - complete](https://github.com/MadalaVarun/hybrid-data-platform)
+17. ✅ [Reliable Notification Platform - complete](https://github.com/MadalaVarun/rabbitmq-notification-platform)
+18. ✅ [GitHub Actions Delivery Platform - complete](https://github.com/MadalaVarun/github-actions-delivery-platform)
+19. ✅ [Cloud Cost & Capacity Analyzer - complete](https://github.com/MadalaVarun/cloud-cost-capacity-analyzer)
+20. ✅ [Microservice Chaos Engineering Lab - complete](https://github.com/MadalaVarun/microservice-chaos-lab)
 
 ## Core Technical Skills
 
