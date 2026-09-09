@@ -6,19 +6,19 @@ I build reliable backend platforms, distributed APIs, and event-driven systems. 
 
 ## Portfolio projects
 
-These implementation-ready blueprints use synthetic data and contain no proprietary code or protected health information.
+The first five entries are complete, runnable repositories with tests, containers, and CI. The remaining entries are implementation-ready blueprints. All healthcare examples use synthetic data and contain no proprietary code or protected health information.
 
-1. [Healthcare Claims Processing API](https://github.com/MadalaVarun/varun-engineering-portfolio/blob/main/projects/01-healthcare-claims-api.md)
-2. [Member Eligibility Event Pipeline](https://github.com/MadalaVarun/varun-engineering-portfolio/blob/main/projects/02-eligibility-event-pipeline.md)
-3. [Multi-Tenant GraphQL Member Gateway](https://github.com/MadalaVarun/varun-engineering-portfolio/blob/main/projects/03-graphql-member-gateway.md)
-4. [PHI Access Control & Audit Service](https://github.com/MadalaVarun/varun-engineering-portfolio/blob/main/projects/04-phi-access-audit.md)
-5. [Claims Platform Observability Lab](https://github.com/MadalaVarun/varun-engineering-portfolio/blob/main/projects/05-observability-lab.md)
-6. [Kubernetes Auto-Scaling Claims Worker](https://github.com/MadalaVarun/varun-engineering-portfolio/blob/main/projects/06-kubernetes-claims-worker.md)
-7. [Azure Microservices Infrastructure](https://github.com/MadalaVarun/varun-engineering-portfolio/blob/main/projects/07-azure-terraform-platform.md)
-8. [Retail POS Inventory & Pricing API](https://github.com/MadalaVarun/varun-engineering-portfolio/blob/main/projects/08-pos-inventory-api.md)
-9. [Academic Assessment Engine](https://github.com/MadalaVarun/varun-engineering-portfolio/blob/main/projects/09-assessment-engine.md)
-10. [Exam Workflow Orchestrator](https://github.com/MadalaVarun/varun-engineering-portfolio/blob/main/projects/10-exam-workflow-orchestrator.md)
-11. [Distributed Cache Benchmark](https://github.com/MadalaVarun/varun-engineering-portfolio/blob/main/projects/11-redis-cache-benchmark.md)
+1. ✅ [Healthcare Claims API - complete](https://github.com/MadalaVarun/healthcare-claims-api)
+2. ✅ [Member Eligibility Event Pipeline - complete](https://github.com/MadalaVarun/member-eligibility-pipeline)
+3. ✅ [POS Inventory Service - complete](https://github.com/MadalaVarun/pos-inventory-service)
+4. ✅ [Academic Assessment Engine - complete](https://github.com/MadalaVarun/academic-assessment-engine)
+5. ✅ [Distributed Cache Benchmark - complete](https://github.com/MadalaVarun/distributed-cache-benchmark)
+6. [Multi-Tenant GraphQL Member Gateway](https://github.com/MadalaVarun/varun-engineering-portfolio/blob/main/projects/03-graphql-member-gateway.md)
+7. [PHI Access Control & Audit Service](https://github.com/MadalaVarun/varun-engineering-portfolio/blob/main/projects/04-phi-access-audit.md)
+8. [Claims Platform Observability Lab](https://github.com/MadalaVarun/varun-engineering-portfolio/blob/main/projects/05-observability-lab.md)
+9. [Kubernetes Auto-Scaling Claims Worker](https://github.com/MadalaVarun/varun-engineering-portfolio/blob/main/projects/06-kubernetes-claims-worker.md)
+10. [Azure Microservices Infrastructure](https://github.com/MadalaVarun/varun-engineering-portfolio/blob/main/projects/07-azure-terraform-platform.md)
+11. [Exam Workflow Orchestrator](https://github.com/MadalaVarun/varun-engineering-portfolio/blob/main/projects/10-exam-workflow-orchestrator.md)
 12. [Healthcare Operations AI Assistant](https://github.com/MadalaVarun/varun-engineering-portfolio/blob/main/projects/12-healthcare-ai-assistant.md)
 13. [gRPC Policy Administration Service](https://github.com/MadalaVarun/varun-engineering-portfolio/blob/main/projects/13-grpc-policy-service.md)
 14. [Claims Data Migration Toolkit](https://github.com/MadalaVarun/varun-engineering-portfolio/blob/main/projects/14-claims-data-migration.md)
